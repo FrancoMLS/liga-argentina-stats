@@ -82,4 +82,4 @@ python src/cargar_datos.py
 
 ## 👤 Autor
 
-Franco MLS - [GitHub](https://github.com/FrancoMLS)
+Franco Lonello Serra - [GitHub](https://github.com/FrancoMLS)
