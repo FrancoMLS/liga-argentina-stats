@@ -1,4 +1,4 @@
-# 🏆 Estadísticas de Jugadores - Liga Argentina 2026
+# 🏆 Estadísticas de Jugadores - Liga Profesional de Fútbol 2026
 
 Proyecto de análisis de datos sobre los jugadores de la Liga Profesional de Fútbol Argentina 2026. Incluye procesamiento de datos con Python, almacenamiento en MySQL y visualización en Power BI.
 
