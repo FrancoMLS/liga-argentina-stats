@@ -25,12 +25,15 @@ liga-argentina-stats/
 ├── data/
 │   └── jugadores.xlsx    → dataset con 824 jugadores
 │
+├── powerbi/
+│   └── liga_argentina_proyecto.pbix
+│
 ├── sql/
-│   ├── schema.sql        → estructura de la base de datos
-│   └── consultas.sql     → consultas de análisis
+│   ├── schema.sql
+│   └── consultas.sql
 │
 └── src/
-    └── cargar_datos.py   → script de carga del Excel a MySQL
+    └── cargar_datos.py
 ```
 
 ## 🗄️ Base de datos
